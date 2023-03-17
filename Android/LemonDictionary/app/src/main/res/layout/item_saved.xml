@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:gravity="center"
+    android:weightSum="12">
+
+    <TextView
+        android:id="@+id/ltxtWord"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:text="Cat"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/ltxtpartOfSpeech"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:text="Noun"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/ltxtMeaning"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:text="Mèo"
+        android:textSize="22sp" />
+
+    <ImageView
+        android:id="@+id/lbtnVolumn"
+        android:layout_width="10dp"
+        android:layout_height="28dp"
+        android:layout_weight="1"
+        android:visibility="visible"
+        app:srcCompat="@drawable/ic_baseline_volume_up_24" />
+
+</LinearLayout>

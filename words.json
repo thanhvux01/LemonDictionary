@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "63ab2ed88553e4795993558a"
+  },
+  "name": "Dog",
+  "meaning": "Chó",
+  "phonetic": "/dɑɡ/",
+  "img": "https://images.unsplash.com/photo-1422565096762-bdb997a56a84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxEb2d8ZW58MHx8fHwxNjcyMTYyODgy&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2eed8553e4795993558c"
+  },
+  "name": "Cat",
+  "meaning": "Mèo",
+  "phonetic": "/kat/",
+  "img": "https://images.unsplash.com/photo-1472491235688-bdc81a63246e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxDYXR8ZW58MHx8fHwxNjcyMDc3MjYw&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/cat-uk.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2f078553e4795993558e"
+  },
+  "name": "Chicken",
+  "meaning": "Gà",
+  "phonetic": "/ˈt͡ʃɪkɪn/",
+  "img": "https://images.unsplash.com/photo-1471623817296-aa07ae5c9f47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxDaGlja2VufGVufDB8fHx8MTY3MjE2MzA3Nw&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/chicken-uk.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2f128553e47959935590"
+  },
+  "name": "Bear",
+  "meaning": "Gấu",
+  "phonetic": "/bɛə(ɹ)/",
+  "img": "https://images.unsplash.com/photo-1505916287987-93face5dfed2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxCZWFyfGVufDB8fHx8MTY3MjE2MzA4OA&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2f1c8553e47959935592"
+  },
+  "name": "Horse",
+  "meaning": "Ngựa",
+  "phonetic": "/hɔːs/",
+  "img": "https://images.unsplash.com/photo-1499190263783-18a53a561660?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxIb3JzZXxlbnwwfHx8fDE2NzIxNjMwOTg&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2f268553e47959935594"
+  },
+  "name": "Turtle",
+  "meaning": "Rùa",
+  "img": "https://images.unsplash.com/photo-1556227834-c4b0b0f7d533?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxUdXJ0bGV8ZW58MHx8fHwxNjcyMTYzMTA4&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/turtle-au.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2f4a8553e47959935596"
+  },
+  "name": "Duck",
+  "meaning": "vịt",
+  "phonetic": "/dʌk/",
+  "img": "https://images.unsplash.com/photo-1589390392100-5a49f5656701?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxEdWNrfGVufDB8fHx8MTY3MjE2MzE0NA&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/duck-au.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2f5a8553e47959935598"
+  },
+  "name": "Lion",
+  "meaning": "Sư từ",
+  "phonetic": "/ˈlaɪən/",
+  "img": "https://images.unsplash.com/photo-1511216113906-8f57bb83e776?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxMaW9ufGVufDB8fHx8MTY3MjE2MzE2MA&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/lion-us.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2f618553e4795993559a"
+  },
+  "name": "Tiger",
+  "meaning": "Hổ",
+  "phonetic": "/ˈtaɪɡə/",
+  "img": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxUaWdlcnxlbnwwfHx8fDE2NzIxNjMxNjc&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2f6e8553e4795993559c"
+  },
+  "name": "Snake",
+  "meaning": "Rắn",
+  "phonetic": "/ˈsneɪk/",
+  "img": "https://images.unsplash.com/photo-1570741066052-817c6de995c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxTbmFrZXxlbnwwfHx8fDE2NzIwNzcwMjc&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/snake-au.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2f788553e4795993559e"
+  },
+  "name": "Squirrel",
+  "meaning": "Sóc",
+  "phonetic": "/ˈskwɪɹl̩/",
+  "img": "https://images.unsplash.com/photo-1553211274-94febfa26133?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxTcXVpcnJlbHxlbnwwfHx8fDE2NzIxNjMxOTA&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "",
+  "partOfSpeech": "noun",
+  "topic": "Animal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab309a5e49433057c23ee3"
+  },
+  "name": "Rain",
+  "meaning": "mưa",
+  "phonetic": "/ɹeɪn/",
+  "img": "https://images.unsplash.com/photo-1525087740718-9e0f2c58c7ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxSYWlufGVufDB8fHx8MTY3MjE2MzQ4MA&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/rain-uk.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Weather",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab30a65e49433057c23ee5"
+  },
+  "name": "Sunny",
+  "meaning": "nắng",
+  "phonetic": "/ˈsʌni/",
+  "img": "https://images.unsplash.com/photo-1587502536575-6dfba0a6e017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MXwxfHNlYXJjaHwxfHxTdW5ueXxlbnwwfHx8fDE2NzIxNjM0OTE&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/sunny-us.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Weather",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab30b35e49433057c23ee7"
+  },
+  "name": "Wind",
+  "meaning": "gió",
+  "phonetic": "/ˈwaɪnd/",
+  "img": "https://images.unsplash.com/photo-1609780252796-ff1937cbeb92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxXaW5kfGVufDB8fHx8MTY3MjE2MzUwNQ&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/wind-1-uk.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Weather",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab30c15e49433057c23ee9"
+  },
+  "name": "Winter",
+  "meaning": "mùa đông",
+  "phonetic": "/ˈwɪntɚ/",
+  "img": "https://images.unsplash.com/photo-1570654639102-bdd95efeca7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MXwxfHNlYXJjaHwxfHxXaW50ZXJ8ZW58MHx8fHwxNjcyMTYzNTE5&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "",
+  "partOfSpeech": "noun",
+  "topic": "Weather",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab30ca5e49433057c23eeb"
+  },
+  "name": "Spring",
+  "meaning": "mùa xuân",
+  "phonetic": "/spɹɪŋ/",
+  "img": "https://images.unsplash.com/photo-1493589976221-c2357c31ad77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxTcHJpbmd8ZW58MHx8fHwxNjcyMTYzNTI4&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/spring-au.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Weather",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab30f25e49433057c23eed"
+  },
+  "name": "Summer",
+  "meaning": "mùa hè",
+  "phonetic": "/ˈsʌmə(ɹ)/",
+  "img": "https://images.unsplash.com/photo-1587502536575-6dfba0a6e017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MXwxfHNlYXJjaHwxfHxTdW1tZXJ8ZW58MHx8fHwxNjcyMTYzNTY4&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "",
+  "partOfSpeech": "noun",
+  "topic": "Weather",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab30fc5e49433057c23eef"
+  },
+  "name": "Autumn",
+  "meaning": "Mùa thu",
+  "phonetic": "/ˈɔːtəm/",
+  "img": "https://images.unsplash.com/photo-1587502537745-84b86da1204f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MXwxfHNlYXJjaHwxfHxBdXR1bW58ZW58MHx8fHwxNjcyMTYzNTc4&ixlib=rb-4.0.3&q=80&w=1080",
+  "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/autumn-uk.mp3",
+  "partOfSpeech": "noun",
+  "topic": "Weather",
+  "__v": 0
+}]

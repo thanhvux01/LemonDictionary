@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "63a7e5803d29fe1a25248a3f"
+  },
+  "username": "Thanh79",
+  "password": "$2b$10$8VU50u/xkiM9OzvQR8Uitu0xvUpoNTYr.m17zeaBpGSsJ6rMTbejG",
+  "email": "Thanh79",
+  "createAt": "2022-12-25",
+  "updateAt": "2022-12-25",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a7e65b3d29fe1a25248a45"
+  },
+  "username": "Than70",
+  "password": "$2b$10$dz8GvzaGqHDjyvg0TvfVtetoCPPNVayDeXjWT9VsBrALlyBzhssxu",
+  "email": "Thanh70",
+  "createAt": "2022-12-25",
+  "updateAt": "2022-12-25",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a7e6ee69161a065a556c14"
+  },
+  "username": "Thanh39",
+  "password": "$2b$10$TbS3oTs/Jfrc2joKlYlNG.rxL.5ER/VnM6gz5PPL25JvT33TjpeK.",
+  "email": "congthanh123485859@gmail.com",
+  "birthday": "22-1-2001",
+  "createAt": "2022-12-25",
+  "updateAt": "2022-12-25",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a7e77b02cdc91fdff9a3f3"
+  },
+  "username": "Thanh36",
+  "password": "$2b$10$YOvTN3tk60KUTCeibXH8T.XNACppXO9qTjcpZIBKdgsWyDkQNxrzi",
+  "email": "Thanh36@gmail.com",
+  "createAt": "2022-12-25",
+  "updateAt": "2022-12-25",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a7e91664eda5211367aad2"
+  },
+  "username": "Thanh20",
+  "password": "$2b$10$a5OvST.qRyKjGESGTJpl3Ochjyl3qlJ56StcJIKXZBUkeZrR9mVCy",
+  "email": "Thanh20",
+  "createAt": "2022-12-25",
+  "updateAt": "2022-12-25",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a83e5595e2c7423e248328"
+  },
+  "username": "Thanh11",
+  "password": "$2b$10$SMBQWKA0CnVcPWR3qtXHHehJEghjvMm6j7.7vCMPAgKjPxWdmO9Cy",
+  "email": "congthanh@gmail.com",
+  "birthday": "22-1-2001",
+  "createAt": "2022-12-25",
+  "updateAt": "2022-12-25",
+  "__v": 13,
+  "favorite": [
+    {
+      "name": "Apple",
+      "meaning": "Quả táo",
+      "phonetic": "/ˈæp.əl/",
+      "img": "https://images.unsplash.com/photo-1624952962903-b6272c309864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxBcHBsZXxlbnwwfHx8fDE2NzIxMzIzNjg&ixlib=rb-4.0.3&q=80&w=1080",
+      "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/apple-uk.mp3",
+      "partOfSpeech": "noun",
+      "_id": {
+        "$oid": "63ab12d51fd92f47e81856ba"
+      }
+    },
+    {
+      "name": "Cat",
+      "meaning": "Con mèo",
+      "phonetic": "/kat/",
+      "img": "https://images.unsplash.com/photo-1472491235688-bdc81a63246e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjgzMjl8MHwxfHNlYXJjaHwxfHxDYXR8ZW58MHx8fHwxNjcyMDc3MjYw&ixlib=rb-4.0.3&q=80&w=1080",
+      "audioURL": "https://api.dictionaryapi.dev/media/pronunciations/en/cat-uk.mp3",
+      "partOfSpeech": "noun",
+      "_id": {
+        "$oid": "63ab13961fd92f47e81856c2"
+      }
+    }
+  ]
+}]
